@@ -3215,15 +3215,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "中華電信220",
-      "type": 0,
-      "url": "./live/220-3128.txt",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "playerType": 2,
-      "pass": true
-    },
 
 
     {
