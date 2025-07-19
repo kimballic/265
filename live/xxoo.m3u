@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160519310300_91.jpg" group-title="成人頻道",松視1台
+http://ali.hlspull.yximgs.com:80/live/ec89b895842a6981104e4302fb870d99.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160519310300_91.jpg" group-title="成人頻道",台視MOD
+http://ali.hlspull.yximgs.com:80/live/台視MOD.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160551332394_32.jpg" group-title="成人頻道",松視3台
+http://ali.hlspull.yximgs.com:80/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160433230071_82.jpg" group-title="成人頻道",彩虹e台
+http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160503686881_21.jpg" group-title="成人頻道",K頻道
+http://ali.hlspull.yximgs.com:80/live/9a09cfd14a8b1ad18dbd61f286fa81b8.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160448332674_69.jpg" group-title="成人頻道",彩虹電影台
+http://ali.hlspull.yximgs.com:80/live/ee25f1b8e3dfe78d6742dd3bf789a36b.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160713188578_50.jpg" group-title="成人頻道",驚豔成人電影台
+http://ali.hlspull.yximgs.com:80/live/c6b7163d79240e546a1cac10f879cc17.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160729776298_38.jpg" group-title="成人頻道",香蕉台
+http://ali.hlspull.yximgs.com:80/live/f9d211fcafe371b393a046a07d5a983b.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160819979323_67.jpg" group-title="成人頻道",Happy台
+http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="成人頻道",JStar極限台電影頻道
+http://ali.hlspull.yximgs.com:80/live/2d7b99b886a1d12286c641d11cb0b283.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160623339189_85.jpg" group-title="成人頻道",潘朵啦高畫質玩美台
+http://ali.hlspull.yximgs.com:80/live/28df492fd4a36a6bbbc4d3817cc03e61.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160641254262_76.jpg" group-title="成人頻道",潘朵啦高畫質粉紅台
+http://ali.hlspull.yximgs.com:80/live/e1d0b7c095d39aca00e75858c7485f4d.flv

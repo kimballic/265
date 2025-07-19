@@ -1,0 +1,1785 @@
+59.124.81.19,#genre#
+海峽衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1563.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2736.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1568.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2775.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/hunanws.m3u8
+鳯凰衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1282.m3u8
+鳳凰中文台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2046.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/dfws.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1787.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1558.m3u8
+Discovery,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1001.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1002.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1004.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1510.m3u8
+ANIMAX,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1234.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1102.m3u8
+東森幼幼,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1462.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1045.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1114.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1210.m3u8
+緯來體育,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1162.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2632.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1426.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1318.m3u8
+東森新聞,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1126.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2408.m3u8
+三立新聞,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2435.m3u8
+東森財經,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1474.m3u8
+東森綜合,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1150.m3u8
+東森戲劇,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1522.m3u8
+八大綜合,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1561.m3u8
+八大第一,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1562.m3u8
+三立都會,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1330.m3u8
+三立台灣,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1569.m3u8
+中天綜合,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1390.m3u8
+中天娛樂,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1306.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1294.m3u8
+好萊塢電影,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1378.m3u8
+緯來綜合,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1246.m3u8
+緯來育樂,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1570.m3u8
+緯來日本,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1222.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1414.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1354.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1486.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1090.m3u8
+CINEMAX ,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1534.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1438.m3u8
+台視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1566.m3u8
+中視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1565.m3u8
+華視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1342.m3u8
+民視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1564.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2571.m3u8
+CCTV4,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2565.m3u8
+海峽衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2559.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2577.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2608.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2583.m3u8
+鳯凰衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2596.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2626.m3u8
+鳯凰中文台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2602.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2638.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2644.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2650.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2706.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2712.m3u8
+緯來電影,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2693.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2699.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2669.m3u8
+年代新聞台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2663.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2657.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2675.m3u8
+八大戲劇,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2681.m3u8
+超視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2687.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2718.m3u8
+好消息GOOD TV,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2741.m3u8
+中天新聞,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2745.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2749.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2753.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2761.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2765.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2757.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2769.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2773.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2778.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2781.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2784.m3u8
+尼克兒童頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2793.m3u8
+nickjr.小尼克,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2796.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2799.m3u8
+DreamWorks,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2807.m3u8
+達文西頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2787.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2816.m3u8
+搖滾電影頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2790.m3u8
+探索世界頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2803.m3u8
+搖滾娛樂頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2810.m3u8
+愛自然頻道,http://mushui.serv00.net/mqlive.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live2813.m3u8
+59.125.210.231,#genre#
+台視新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8876/live1101.m3u8
+中視新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8875/live1100.m3u8
+華視新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8874/live1099.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8807/live1008.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8812/live1033.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8814/live1035.m3u8
+大愛一台 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8804/live1005.m3u8
+公視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8815/live1037.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8813/live1036.m3u8
+公視2 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8500/live1127.m3u8
+公視3 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8501/live1128.m3u8
+民視台灣HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8507/live1134.m3u8
+民視第一台HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8502/live1129.m3u8
+華視教育文化HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8503/live1135.m3u8
+客家電視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8505/live1137.m3u8
+原民電視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8504/live1138.m3u8
+台視綜合,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8506/live1139.m3u8
+台視財經,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8508/live1140.m3u8
+MOMO親子台,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8514/live1166.m3u8
+動物星球 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8827/live1046.m3u8
+金鷹卡通HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8816/live1038.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8515/live1167.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8809/live1030.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8822/live1023.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8821/live1022.m3u8
+三立台灣台 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8516/live1168.m3u8
+三立都會台 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8517/live1169.m3u8
+東風衛視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8525/live1221.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8519/live1171.m3u8
+東森超視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8520/live1172.m3u8
+Discovery HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8829/live1049.m3u8
+探索科學 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8521/live1173.m3u8
+中天綜合 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8522/live1174.m3u8
+緯來精采HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8567/live1219.m3u8
+居家樂活HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8568/live1220.m3u8
+中天娛樂 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8523/live1175.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8524/live1176.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8823/live1024.m3u8
+緯來戲劇 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8811/live1032.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8817/live1039.m3u8
+歷史頻道 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8526/live1178.m3u8
+三立戲劇HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8527/live1179.m3u8
+龍翔電影HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8528/live1180.m3u8
+龍華洋片HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8529/live1181.m3u8
+TLC旅遊頻道HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8848/live1071.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8831/live1051.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8806/live1007.m3u8
+中天新聞 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8513/live1165.m3u8
+民視新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8832/live1053.m3u8
+三立新聞 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8530/live1182.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8533/live1185.m3u8
+非凡新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8836/live1057.m3u8
+壹新聞HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8820/live1021.m3u8
+三立財經 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8534/live1186.m3u8
+amc HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8535/live1187.m3u8
+東森電影HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8536/live1188.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8810/live1031.m3u8
+JET綜合台,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8537/live1189.m3u8
+華納電影HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8538/live1190.m3u8
+東森洋片HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8539/live1191.m3u8
+AXN洋片 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8842/live1064.m3u8
+cinema world HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8847/live1113.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8819/live1020.m3u8
+愛爾達體育1台,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8854/live1077.m3u8
+愛爾達體育2台,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8865/live1088.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8828/live1048.m3u8
+Z頻道,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8843/live1065.m3u8
+博斯體育1HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8857/live1080.m3u8
+博斯體育2HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8858/live1081.m3u8
+國興衛視 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8869/live1093.m3u8
+HBO HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8540/live1192.m3u8
+HBO家庭HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8541/live1193.m3u8
+HBO強檔HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8542/live1194.m3u8
+HBO原創HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8543/live1195.m3u8
+探索動力 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8830/live1052.m3u8
+韓國娛樂 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8999/live1047.m3u8
+國會頻道1,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8510/live1142.m3u8
+國會頻道2,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8509/live1143.m3u8
+中視經典,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8511/live1144.m3u8
+中視菁采,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8512/live1145.m3u8
+信吉電視 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8544/live1196.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8545/live1197.m3u8
+佛衛慈悲,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8546/live1198.m3u8
+信大電視 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8547/live1199.m3u8
+大愛二台HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8548/live1200.m3u8
+好消息二台,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8549/live1201.m3u8
+BS朝日,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8550/live1202.m3u8
+JSPORT-1,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8552/live1204.m3u8
+JSPORT-2,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8553/live1205.m3u8
+美亞電影-粵語,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8554/live1206.m3u8
+CatchPlay HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8555/live1207.m3u8
+美亞電影 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8556/live1208.m3u8
+Look HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8557/live1209.m3u8
+彩虹電影,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8558/live1210.m3u8
+松視一台 HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8559/live1211.m3u8
+彩虹E台,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8560/live1212.m3u8
+松視二台HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8561/live1213.m3u8
+驚艷台HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8562/live1214.m3u8
+潘多拉完美,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8564/live1216.m3u8
+香蕉台,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8566/live1218.m3u8
+湖南衛視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8883/live1118.m3u8
+浙江衛視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8551/live1203.m3u8
+北京衛視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8860/live1083.m3u8
+上海衛視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8862/live1085.m3u8
+江蘇衛視HD,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8859/live1082.m3u8
+中天新闻,http://mushui.serv00.net/mqlive.php?ip=59.125.210.231&url=http://59.125.210.231:8518/live1222.m3u8
+60.248.127.232,#genre#
+台視新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8876/live1101.m3u8
+中視新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8875/live1100.m3u8
+華視新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8874/live1099.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8807/live1008.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8812/live1033.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8814/live1035.m3u8
+大愛一台 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8804/live1005.m3u8
+公視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8815/live1037.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8813/live1036.m3u8
+公視2 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8500/live1127.m3u8
+公視3 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8501/live1128.m3u8
+民視台灣HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8507/live1134.m3u8
+民視第一台HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8502/live1129.m3u8
+華視教育文化HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8503/live1135.m3u8
+客家電視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8505/live1137.m3u8
+原民電視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8504/live1138.m3u8
+台視綜合,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8506/live1139.m3u8
+台視財經,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8508/live1140.m3u8
+MOMO親子台,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8514/live1166.m3u8
+動物星球 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8827/live1046.m3u8
+金鷹卡通HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8816/live1038.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8515/live1167.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8809/live1030.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8822/live1023.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8821/live1022.m3u8
+三立台灣台 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8516/live1168.m3u8
+三立都會台 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8517/live1169.m3u8
+東風衛視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8525/live1221.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8519/live1171.m3u8
+東森超視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8520/live1172.m3u8
+Discovery HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8829/live1049.m3u8
+探索科學 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8521/live1173.m3u8
+中天綜合 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8522/live1174.m3u8
+緯來精采HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8567/live1219.m3u8
+居家樂活HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8568/live1220.m3u8
+中天娛樂 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8523/live1175.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8524/live1176.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8823/live1024.m3u8
+緯來戲劇 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8811/live1032.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8817/live1039.m3u8
+歷史頻道 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8526/live1178.m3u8
+三立戲劇HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8527/live1179.m3u8
+龍翔電影HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8528/live1180.m3u8
+龍華洋片HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8529/live1181.m3u8
+TLC旅遊頻道HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8848/live1071.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8831/live1051.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8806/live1007.m3u8
+中天新聞 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8513/live1165.m3u8
+民視新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8832/live1053.m3u8
+三立新聞 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8530/live1182.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8533/live1185.m3u8
+非凡新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8836/live1057.m3u8
+壹新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8820/live1021.m3u8
+三立財經 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8534/live1186.m3u8
+amc HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8535/live1187.m3u8
+東森電影HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8536/live1188.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8810/live1031.m3u8
+JET綜合台,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8537/live1189.m3u8
+華納電影HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8538/live1190.m3u8
+東森洋片HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8539/live1191.m3u8
+AXN洋片 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8842/live1064.m3u8
+cinema world HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8847/live1113.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8819/live1020.m3u8
+愛爾達體育1台,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8854/live1077.m3u8
+愛爾達體育2台,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8865/live1088.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8828/live1048.m3u8
+Z頻道,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8843/live1065.m3u8
+博斯體育1HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8857/live1080.m3u8
+博斯體育2HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8858/live1081.m3u8
+國興衛視 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8869/live1093.m3u8
+HBO HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8540/live1192.m3u8
+HBO家庭HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8541/live1193.m3u8
+HBO強檔HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8542/live1194.m3u8
+HBO原創HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8543/live1195.m3u8
+探索動力 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8830/live1052.m3u8
+韓國娛樂 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8999/live1047.m3u8
+國會頻道1,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8510/live1142.m3u8
+國會頻道2,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8509/live1143.m3u8
+中視經典,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8511/live1144.m3u8
+中視菁采,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8512/live1145.m3u8
+信吉電視 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8544/live1196.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8545/live1197.m3u8
+佛衛慈悲,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8546/live1198.m3u8
+信大電視 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8547/live1199.m3u8
+大愛二台HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8548/live1200.m3u8
+好消息二台,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8549/live1201.m3u8
+BS朝日,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8550/live1202.m3u8
+JSPORT-1,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8552/live1204.m3u8
+JSPORT-2,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8553/live1205.m3u8
+美亞電影-粵語,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8554/live1206.m3u8
+CatchPlay HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8555/live1207.m3u8
+美亞電影 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8556/live1208.m3u8
+Look HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8557/live1209.m3u8
+彩虹電影,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8558/live1210.m3u8
+松視一台 HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8559/live1211.m3u8
+彩虹E台,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8560/live1212.m3u8
+松視二台HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8561/live1213.m3u8
+驚艷台HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8562/live1214.m3u8
+潘多拉完美,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8564/live1216.m3u8
+香蕉台,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8566/live1218.m3u8
+湖南衛視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8883/live1118.m3u8
+浙江衛視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8551/live1203.m3u8
+北京衛視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8860/live1083.m3u8
+上海衛視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8862/live1085.m3u8
+江蘇衛視HD,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8859/live1082.m3u8
+中天新闻,http://mushui.serv00.net/mqlive.php?ip=60.248.127.232&url=http://60.248.127.232:8518/live1222.m3u8
+60.250.121.103,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/custom19.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1072.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1034.m3u8
+海峽衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1035.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1036.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1213.m3u8
+60.250.121.217,#genre#
+海峽衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1563.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2736.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1568.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2775.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/hunanws.m3u8
+鳯凰衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1282.m3u8
+鳳凰中文台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2046.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/dfws.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1787.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1558.m3u8
+Discovery,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1001.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1002.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1004.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1510.m3u8
+ANIMAX,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1234.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1102.m3u8
+東森幼幼,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1462.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1045.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1114.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1210.m3u8
+緯來體育,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1162.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2632.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1426.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1318.m3u8
+東森新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1126.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2408.m3u8
+三立新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2435.m3u8
+東森財經,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1474.m3u8
+東森綜合,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1150.m3u8
+東森戲劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1522.m3u8
+八大綜合,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1561.m3u8
+八大第一,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1562.m3u8
+三立都會,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1330.m3u8
+三立台灣,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1569.m3u8
+中天綜合,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1390.m3u8
+中天娛樂,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1306.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1294.m3u8
+好萊塢電影,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1378.m3u8
+緯來綜合,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1246.m3u8
+緯來育樂,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1570.m3u8
+緯來日本,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1222.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1414.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1354.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1486.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1090.m3u8
+CINEMAX ,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1534.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1438.m3u8
+台視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1566.m3u8
+中視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1565.m3u8
+華視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1342.m3u8
+民視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live1564.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2571.m3u8
+CCTV4,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2565.m3u8
+海峽衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2559.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2577.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2608.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2583.m3u8
+鳯凰衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2596.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2626.m3u8
+鳯凰中文台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2602.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2638.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2644.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2650.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2706.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2712.m3u8
+緯來電影,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2693.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2699.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2669.m3u8
+年代新聞台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2663.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2657.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2675.m3u8
+八大戲劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2681.m3u8
+超視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2687.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2718.m3u8
+好消息GOOD TV,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2741.m3u8
+中天新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2745.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2753.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2761.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2765.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2757.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2769.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2773.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2778.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2781.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2784.m3u8
+尼克兒童頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2793.m3u8
+nickjr.小尼克,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2796.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2799.m3u8
+DreamWorks,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2807.m3u8
+達文西頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2787.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2816.m3u8
+搖滾電影頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2790.m3u8
+探索世界頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2803.m3u8
+搖滾娛樂頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2810.m3u8
+愛自然頻道,http://mushui.serv00.net/mqlive.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2813.m3u8
+61.63.19.241,#genre#
+瑞穗天合國際觀光酒店形象影片,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1207.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1047.m3u8
+台視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1107.m3u8
+台視財經台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1108.m3u8
+台視綜合台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1109.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1048.m3u8
+中視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1115.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1049.m3u8
+華視教育體育文化台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1119.m3u8
+華視新聞資訊台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1050.m3u8
+民視第一台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1103.m3u8
+民視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1104.m3u8
+民視台灣台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1105.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1201.m3u8
+公視台語台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1111.m3u8
+公視3台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1113.m3u8
+人間衛視,http://61.63.19.241:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+大愛電視,http://61.63.19.241:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+好消息頻道,http://61.63.19.241:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1254.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1072.m3u8
+客家電視台,http://61.63.19.241:8589/http/192.168.1.10:8088/hls/89/80/Hakka5max.m3u8
+原住民族電視台,http://61.63.19.241:8590/http/192.168.1.10:8088/hls/90/80/Titv5max.m3u8
+國會頻道1,http://61.63.19.241:8591/http/192.168.1.10:8088/hls/88/80/Congress1-5max.m3u8
+國會頻道2,http://61.63.19.241:8592/http/192.168.1.10:8088/hls/88/80/Congress2-5max.m3u8
+澳門廣視,http://61.63.19.241:8593/http/192.168.1.10:8078/hls/33/80/macau.m3u8
+義大利台,http://61.63.19.241:8594/http/192.168.1.10:8078/hls/33/80/ltalia.m3u8
+法蘭西24小時新聞法語頻道,http://61.63.19.241:8595/http/192.168.1.10:8078/hls/33/80/france24.m3u8
+新加坡亞洲新聞台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1126.m3u8
+星空衛視,http://61.63.19.241:8597/http/192.168.1.10:8078/hls/36/80/xingkong.m3u8
+[V]音樂台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1128.m3u8
+卡達半島電視臺國際頻道,http://61.63.19.241:8599/http/192.168.1.10:8078/hls/36/80/aljaz.m3u8
+TV 5 Monde,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1140.m3u8
+Isaac TV-基督教衛星電視,http://61.63.19.241:8602/http/192.168.1.10:8078/hls/37/80/isaac.m3u8
+Joo Music,http://61.63.19.241:8603/http/192.168.1.10:8078/hls/37/80/joo.m3u8
+DW-TV-德國之聲,http://61.63.19.241:8604/http/192.168.1.10:8078/hls/37/80/dwtv.m3u8
+NHK World,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1134.m3u8
+阿里郎電視,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1142.m3u8
+美國之音 VOA中文廣播,http://61.63.19.241:8608/http/192.168.1.10:8078/hls/111/80/voa.m3u8
+法國時裝頻道,http://61.63.19.241:8609/http/192.168.1.10:8078/hls/111/80/fashion.m3u8
+路透社新聞,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1139.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1034.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1035.m3u8
+浙江衛視,http://61.63.19.241:8573/http/192.168.1.10:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://61.63.19.241:8615/http/192.168.1.10:8078/hls/41/80/east.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1213.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1260.m3u8
+NHK BS1,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1155.m3u8
+NHK BSP,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1154.m3u8
+尼克兒童頻道,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1255.m3u8
+nickjr.小尼克,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1266.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1261.m3u8
+達文西頻道,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1264.m3u8
+DreamWorks,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1271.m3u8
+搖滾電影頻道,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1274.m3u8
+探索世界頻道,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1277.m3u8
+搖滾娛樂頻道 ,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1283.m3u8
+愛自然頻道 ,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1286.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1289.m3u8
+61.216.26.165,#genre#
+台視HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1047.m3u8
+中視HD,http://61.216.26.165:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
+華視HD,http://61.216.26.165:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
+民視HD,http://61.216.26.165:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1216.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1004.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1008.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1024.m3u8
+超視HD,http://61.216.26.165:8525/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1023.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2002.m3u8
+東森戲劇HD,http://61.216.26.165:8530/http/192.168.1.9:8081/hls/64/806/ch13.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1018.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1015.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1080.m3u8
+TVBS,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1081.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1228.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1031.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1040.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1072.m3u8
+廈門衛視,http://61.216.26.165:8568/http/192.168.1.9:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://61.216.26.165:8569/http/192.168.1.9:8078/hls/42/80/cctv4.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1035.m3u8
+浙江衛視,http://61.216.26.165:8571/http/192.168.1.9:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://61.216.26.165:8572/http/192.168.1.9:8078/hls/41/80/east.m3u8
+湖南衛視,http://61.216.26.165:8573/http/192.168.1.9:8078/hls/41/80/huana.m3u8
+鳯凰衛視資訊,http://61.216.26.165:8576/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視中文,http://61.216.26.165:8577/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2024.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2023.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2025.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2021.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2022.m3u8
+三立台灣,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1061.m3u8
+年代新聞台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1077.m3u8
+三立新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1079.m3u8
+尼克兒童頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1139.m3u8
+nickjr.小尼克,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1138.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1140.m3u8
+達文西頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1136.m3u8
+寵物頻道 ,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1137.m3u8
+DreamWorks,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2892.m3u8
+搖滾電影頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2894.m3u8
+探索世界頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2895.m3u8
+搖滾娛樂頻道 ,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2896.m3u8
+愛自然頻道 ,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2897.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2898.m3u8
+緯來體育,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2899.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2900.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2901.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2902.m3u8
+61.216.180.81,#genre#
+台視HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1216.m3u8
+好消息GOOD TV,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1669.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1219.m3u8
+MOMO親子台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1008.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1670.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1671.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1672.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1673.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1674.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1014.m3u8
+中天新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1675.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1052.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1668.m3u8
+非凡新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1013.m3u8
+非凡商業HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1676.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1677.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1678.m3u8
+momo綜合台,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1225.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=61.216.180.81&url=http://61.216.180.81:5003/live1072.m3u8
+廈門衛視,http://61.216.180.81:8568/http/61.67.128.137:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://61.216.180.81:8569/http/61.67.128.137:8078/hls/42/80/cctv4.m3u8
+海峽衛視,http://61.216.180.81:8580/http/61.67.128.137:8078/hls/42/80/fjttv.m3u8
+浙江衛視,http://61.216.180.81:8571/http/61.67.128.137:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://61.216.180.81:8572/http/61.67.128.137:8078/hls/41/80/east.m3u8
+湖南衛視,http://61.216.180.81:8573/http/61.67.128.137:8078/hls/41/80/huana.m3u8
+鳯凰衛視資訊,http://61.216.180.81:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視中文,http://61.216.180.81:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
+61.220.72.26,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/custom19.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1072.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1034.m3u8
+海峽衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1035.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1036.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1213.m3u8
+61.221.81.93,#genre#
+台視,http://61.221.81.93:8511/http/192.168.1.9:8088/hls/72/814/ch46.m3u8
+中視,http://61.221.81.93:8512/http/192.168.1.9:8088/hls/72/814/ch47.m3u8
+華視,http://61.221.81.93:8514/http/192.168.1.10:8088/hls/72/814/ch48.m3u8
+民視,http://61.221.81.93:8517/http/192.168.1.10:8088/hls/73/815/ch49.m3u8
+公視,http://61.221.81.93:8518/http/192.168.1.10:8088/hls/73/815/ch50.m3u8
+人間衛視,http://61.221.81.93:8526/http/192.168.1.10:8088/hls/69/811/ch36.m3u8
+大愛電視,http://61.221.81.93:8528/http/192.168.1.10:8088/hls/73/815/ch52.m3u8
+大愛二,http://61.221.81.93:8540/http/192.168.1.9:8088/hls/75/817/ch60.m3u8
+好消息GOOD TV,http://61.221.81.93:8547/http/192.168.1.10:8088/hls/74/816/ch53.m3u8
+DISCOVERY,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
+旅遊生活,http://61.221.81.93:8552/http/192.168.1.10:8088/hls/70/812/ch38.m3u8
+亞洲旅遊,http://61.221.81.93:8553/http/192.168.1.10:8088/hls/76/818/ch61.m3u8
+動物星球,http://61.221.81.93:8554/http/192.168.1.10:8088/hls/70/812/ch37.m3u8
+東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
+緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
+八大第一,http://61.221.81.93:8558/http/192.168.1.10:8088/hls/66/808/ch22.m3u8
+八大綜合,http://61.221.81.93:8559/http/192.168.1.10:8088/hls/66/808/ch21.m3u8
+JET綜合,http://61.221.81.93:8560/http/192.168.1.10:8088/hls/74/816/ch54.m3u8
+三立台灣,http://61.221.81.93:8561/http/192.168.1.10:8088/hls/65/807/ch20.m3u8
+三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
+NHK ,http://61.221.81.93:8564/http/192.168.1.10:8088/hls/62/804/ch06.m3u8
+東森綜合,http://61.221.81.93:8826/http/192.168.11.63/ch12.m3u8
+MoMo綜合台,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
+東森超視,http://61.221.81.93:8566/http/192.168.1.10:8088/hls/64/806/ch14.m3u8
+中天綜合,http://61.221.81.93:8567/http/192.168.1.10:8088/hls/67/809/ch25.m3u8
+中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
+東風衛視台,http://61.221.81.93:8569/http/192.168.1.10:8088/hls/68/810/ch31.m3u8
+MUCH TV,http://61.221.81.93:8570/http/192.168.1.10:8088/hls/72/814/ch45.m3u8
+東森戲劇,http://61.221.81.93:8574/http/192.168.1.10:8088/hls/64/806/ch13.m3u8
+八大戲劇,http://61.221.81.93:8575/http/192.168.1.10:8088/hls/66/808/ch23.m3u8
+TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
+緯來戲劇,http://61.221.81.93:8577/http/192.168.1.10:8088/hls/69/811/ch33.m3u8
+年代新聞台,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
+東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
+壹電視新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
+中天新聞_SDI,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
+民視新聞,http://61.221.81.93:8583/http/192.168.1.10:8088/hls/73/815/ch51.m3u8
+三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
+非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
+寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
+正德電視,http://61.221.81.93:8587/http/192.168.1.10:8088/hls/64/806/ch16.m3u8
+國興衛視,http://61.221.81.93:8588/http/192.168.1.10:8088/hls/64/806/ch15.m3u8
+非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
+東森財經,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
+緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
+HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
+AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
+CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
+好萊塢電影,http://61.221.81.93:8597/http/192.168.1.10:8088/hls/74/816/ch55.m3u8
+緯來育樂,http://61.221.81.93:8603/http/192.168.11.68/ch30.m3u8
+緯來體育,http://61.221.81.93:8604/http/192.168.11.67/ch28.m3u8
+ELEVEN SPORTS 1 HD,http://61.221.81.93:8605/http/192.168.11.76/evensports1_max.m3u8
+ELEVEN SPORTS 2 HD,http://61.221.81.93:8606/http/192.168.11.77/evensports2_max.m3u8
+緯來日本,http://61.221.81.93:8607/http/192.168.11.69/ch34.m3u8
+ANIMAX 卡通動畫,http://61.221.81.93:8608/http/192.168.11.70/ch39.m3u8
+TVBS新聞台,http://61.221.81.93:8611/http/192.168.11.75/ch59.m3u8
+Taiwan Plus,http://61.221.81.93:8614/http/192.168.11.61/ch03.m3u8
+博斯運動台 II,http://61.221.81.93:8616/http/192.168.11.61/ch04.m3u8
+122.117.71.103,#genre#
+台視HD,http://mushui.serv00.net/mqlive.php?ip=122.117.71.103&url=http://122.117.71.103:5003/live1047.m3u8
+中視HD,http://122.117.71.103:8630/http/61.222.53.250:8081/hls/88/80/Ctv4max.m3u8
+華視HD,http://122.117.71.103:8622/http/61.222.53.250:8081/hls/89/80/Cts4max.m3u8
+民視HD,http://122.117.71.103:8623/http/61.222.53.250:8081/hls/85/80/Ftv4max.m3u8
+公視,http://122.117.71.103:8624/http/61.222.53.250:8081/hls/87/80/Pts4max.m3u8
+人間衛視,http://122.117.71.103:8631/http/61.222.53.250:8081/hls/69/811/ch36.m3u8
+大愛電視,http://122.117.71.103:8632/http/61.222.53.250:8081/hls/73/815/ch52.m3u8
+好消息GOOD TV,http://122.117.71.103:8625/http/61.222.53.250:8081/hls/74/816/ch53.m3u8
+Trace Sport Stars,http://122.117.71.103:8626/http/61.222.53.250:8092/upload/212/TraceS_TS-1111_1.m3u8
+DISCOVERY,http://122.117.71.103:8627/http/61.222.53.250:8081/hls/71/813/ch44.m3u8
+旅遊生活,http://122.117.71.103:8628/http/61.222.53.250:8081/hls/70/812/ch38.m3u8
+動物星球,http://122.117.71.103:8633/http/61.222.53.250:8081/hls/70/812/ch37.m3u8
+亞洲旅遊,http://122.117.71.103:8634/http/61.67.128.129:8081/hls/76/818/ch61.m3u8
+momo親子台,http://122.117.71.103:8635/http/61.222.53.250:8081/hls/90/80/momo4max.m3u8
+東森幼幼HD,http://122.117.71.103:8636/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
+龍華卡通台,http://122.117.71.103:8637/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
+緯來綜合HD,http://122.117.71.103:8638/http/61.222.53.250:8081/hls/68/810/ch32.m3u8
+八大第一HD,http://122.117.71.103:8639/http/61.222.53.250:8081/hls/66/808/ch22.m3u8
+八大綜合HD,http://122.117.71.103:8640/http/61.222.53.250:8081/hls/66/808/ch21.m3u8
+三立台灣HD,http://122.117.71.103:8643/http/61.222.53.250:8081/hls/65/807/ch20.m3u8
+三立都會HD,http://122.117.71.103:8644/http/61.222.53.250:8081/hls/65/807/ch19.m3u8
+韓國娛樂台,http://122.117.71.103:8645/http/61.222.53.250:8092/upload/116/KMTV_TS-1111_1.m3u8
+東森綜合HD,http://122.117.71.103:8646/http/61.222.53.250:8081/hls/63/805/ch12.m3u8
+超視HD,http://122.117.71.103:8647/http/61.222.53.250:8081/hls/64/806/ch14.m3u8
+中天綜合HD,http://122.117.71.103:8648/http/61.222.53.250:8081/hls/67/809/ch25.m3u8
+中天娛樂HD,http://122.117.71.103:8649/http/61.222.53.250:8081/hls/67/809/ch26.m3u8
+東風衛視,http://122.117.71.103:8650/http/61.222.53.250:8081/hls/68/810/ch31.m3u8
+MUCH TV,http://122.117.71.103:8651/http/61.222.53.250:8081/hls/72/814/ch45.m3u8
+東森戲劇HD,http://122.117.71.103:8652/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
+八大戲劇HD,http://122.117.71.103:8653/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
+TVBS歡樂HD,http://122.117.71.103:8654/http/61.222.53.250:8081/hls/65/807/ch17.m3u8
+緯來戲劇,http://122.117.71.103:8655/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
+龍華戲劇台,http://122.117.71.103:8656/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
+龍華日韓劇,http://122.117.71.103:8657/http/61.222.53.250:8068/hls/12/80/cstv12.m3u8
+龍華偶像劇,http://122.117.71.103:8680/http/61.222.53.250:8068/hls/11/80/cstv11.m3u8
+緯來日本HD,http://122.117.71.103:8681/http/61.222.53.250:8081/hls/69/811/ch34.m3u8
+Taiwan Plus,http://122.117.71.103:8658/http/61.222.53.250:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
+年代新聞,http://122.117.71.103:8659/http/61.222.53.250:8081/hls/67/809/ch27.m3u8
+東森新聞HD,http://122.117.71.103:8660/http/61.222.53.250:8081/hls/63/805/ch10.m3u8
+中天新聞,http://122.117.71.103:8661/http/61.222.53.250:8081/hls/78/80/ch63max.m3u8
+民視新聞,http://122.117.71.103:8682/http/61.222.53.250:8081/hls/85/80/FtvNews4max.m3u8
+三立新聞HD,http://122.117.71.103:8683/http/61.222.53.250:8081/hls/65/807/ch18.m3u8
+TVBS新聞HD,http://122.117.71.103:8662/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+TVBS HD,http://122.117.71.103:8663/http/61.222.53.250:8081/hls/75/817/ch58.m3u8
+非凡新聞,http://122.117.71.103:8664/http/61.222.53.250:8081/hls/75/817/ch57.m3u8
+非凡商業,http://122.117.71.103:8665/http/61.222.53.250:8081/hls/74/816/ch56.m3u8
+東森財經HD,http://122.117.71.103:8684/http/61.222.53.250:8081/hls/63/805/ch11.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/61.222.53.250:8081/hls/76/818/ch62.m3u8
+壹新聞,http://122.117.71.103:8686/http/61.222.53.250:8081/hls/66/808/ch24.m3u8
+Bloomberg News,http://122.117.71.103:8687/http/61.222.53.250:8078/hls/43/80/bloomber.m3u8
+NHK世界HD,http://122.117.71.103:8688/http/61.222.53.250:8081/hls/62/804/ch06.m3u8
+鏡電視新聞台,http://122.117.71.103:8697/http/61.222.53.250:8092/upload/114/MNEWS_TS-1111_1.m3u8
+好萊塢電影HD,http://122.117.71.103:8689/http/61.222.53.250:8081/hls/74/816/ch55.m3u8
+緯來電影HD,http://122.117.71.103:8666/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+龍華電影台,http://122.117.71.103:8667/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+HBO,http://122.117.71.103:8668/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
+AXN,http://122.117.71.103:8669/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
+CINEMAX HD,http://122.117.71.103:8670/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
+AMC 電影台,http://122.117.71.103:8671/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
+寵物頻道,http://122.117.71.103:8690/http/61.222.53.250:8078/hls/40/80/pettv.m3u8
+緯來育樂HD,http://122.117.71.103:8691/http/61.222.53.250:8081/hls/68/810/ch30.m3u8
+緯來體育HD,http://122.117.71.103:8692/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
+博斯運動一,http://122.117.71.103:8693/http/61.222.53.250:8068/hls/15/80/cstv15.m3u8
+momo 綜合台,http://122.117.71.103:8694/http/61.222.53.250:8081/hls/76/818/momo_max.m3u8
+DAZN 1  HD,http://122.117.71.103:8695/http/61.222.53.250:8078/hls/25/80/esport.m3u8
+DAZN 2  HD,http://122.117.71.103:8696/http/61.222.53.250:8078/hls/26/80/esport2.m3u8
+廈門衛視,http://122.117.71.103:8672/http/61.222.53.250:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://122.117.71.103:8673/http/61.222.53.250:8078/hls/42/80/cctv4.m3u8
+海峽衛視HD,http://122.117.71.103:8674/http/61.222.53.250:8078/hls/42/80/fjttv.m3u8
+浙江衛視,http://122.117.71.103:8675/http/61.222.53.250:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://122.117.71.103:8676/http/61.222.53.250:8078/hls/41/80/east.m3u8
+湖南衛視,http://122.117.71.103:8677/http/61.222.53.250:8078/hls/41/80/huana.m3u8
+鳯凰衛視資訊,http://122.117.71.103:8678/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視中文,http://122.117.71.103:8679/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
+123.51.149.68,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/custom19.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1072.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1034.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1035.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1036.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1213.m3u8
+探索世界頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1257.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1266.m3u8
+愛自然頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1263.m3u8
+搖滾娛樂頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1260.m3u8
+搖滾電影頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1254.m3u8
+DreamWorks ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1269.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1272.m3u8
+123.51.229.128,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/custom19.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1254.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1072.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1034.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1035.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1036.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=123.51.229.128&url=http://123.51.229.128:5003/live1213.m3u8
+國家地理,http://123.51.229.128:8505/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
+衛視電影,http://123.51.229.128:8535/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+STAR MOVIES GOLD,http://123.51.229.128:8577/http/192.168.1.9:8081/hls/62/804/ch08.m3u8
+Star World,http://123.51.229.128:8579/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+123.51.230.108,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/custom19.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1072.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1034.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1035.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1036.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1213.m3u8
+探索世界頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1257.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1266.m3u8
+愛自然頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1263.m3u8
+搖滾娛樂頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1260.m3u8
+搖滾電影頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1254.m3u8
+DreamWorks ,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1269.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.230.108&url=http://123.51.230.108:5003/live1272.m3u8
+123.51.231.132,#genre#
+台視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1047.m3u8
+中視HD,http://123.51.231.132:8502/http/192.168.1.9:8081/hls/88/80/Ctv4max.m3u8
+華視HD,http://123.51.231.132:8503/http/192.168.1.9:8081/hls/89/80/Cts4max.m3u8
+民視HD,http://123.51.231.132:8504/http/192.168.1.9:8081/hls/85/80/Ftv4max.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1216.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1004.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1008.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1024.m3u8
+超視HD,http://123.51.231.132:8525/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1023.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2002.m3u8
+東森戲劇HD,http://123.51.231.132:8530/http/192.168.1.9:8081/hls/64/806/ch13.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1018.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1015.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1080.m3u8
+TVBS,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1081.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1228.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1031.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1040.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1072.m3u8
+廈門衛視,http://123.51.231.132:8568/http/192.168.1.9:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://123.51.231.132:8569/http/192.168.1.9:8078/hls/42/80/cctv4.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1035.m3u8
+浙江衛視,http://123.51.231.132:8571/http/192.168.1.9:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://123.51.231.132:8572/http/192.168.1.9:8078/hls/41/80/east.m3u8
+湖南衛視,http://123.51.231.132:8573/http/192.168.1.9:8078/hls/41/80/huana.m3u8
+鳯凰衛視資訊,http://123.51.231.132:8576/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視中文,http://123.51.231.132:8577/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2024.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2023.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2025.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2021.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2022.m3u8
+三立台灣,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1061.m3u8
+年代新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1077.m3u8
+三立新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1079.m3u8
+尼克兒童頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1139.m3u8
+nickjr.小尼克,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1138.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1140.m3u8
+達文西頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1136.m3u8
+寵物頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live1137.m3u8
+DreamWorks,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2892.m3u8
+搖滾電影頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2894.m3u8
+探索世界頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2895.m3u8
+搖滾娛樂頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2896.m3u8
+愛自然頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2897.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2898.m3u8
+緯來體育,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2899.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2900.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2901.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.231.132&url=http://123.51.231.132:5003/live2902.m3u8
+123.51.149.52,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/custom19.m3u8
+113年全國羽球團體錦標賽,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1258.m3u8
+蝴蝶谷溫泉渡假村形象影片,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1254.m3u8
+瑞穗天合國際觀光酒店形象影片,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1207.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1228.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1072.m3u8
+廈門衛視,http://123.51.149.52:18631/http/192.168.1.9:8088/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://123.51.149.52:18633/http/192.168.1.9:8088/hls/42/80/cctv4.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1035.m3u8
+浙江衛視,http://123.51.149.52:18534/http/192.168.1.9:8088/hls/41/80/zhejiang.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=123.51.149.52&url=http://123.51.149.52:5003/live1213.m3u8
+123.51.149.68,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/custom19.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1072.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1034.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1035.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1036.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1213.m3u8
+探索世界頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1257.m3u8
+華藝中文台,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1266.m3u8
+愛自然頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1263.m3u8
+搖滾娛樂頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1260.m3u8
+搖滾電影頻道 ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1254.m3u8
+DreamWorks ,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1269.m3u8
+MTV Live音樂頻道,http://mushui.serv00.net/mqlive.php?ip=123.51.149.68&url=http://123.51.149.68:5003/live1272.m3u8
+211.23.114.106,#genre#
+台視HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1047.m3u8
+中視HD,http://211.23.114.106:8534/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+華視HD,http://211.23.114.106:8504/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
+民視HD,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
+公視,http://211.23.114.106:8550/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+人間衛視,http://211.23.114.106:9306/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
+大愛電視,http://211.23.114.106:9307/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+好消息GOOD TV,http://211.23.114.106:9308/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
+Trace Sport Stars,http://211.23.114.106:8505/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
+DISCOVERY,http://211.23.114.106:9310/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+旅遊生活,http://211.23.114.106:9311/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+動物星球,http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+亞洲旅遊,http://211.23.114.106:8512/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+MOMO親子台,http://211.23.114.106:8516/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
+東森幼幼HD,http://211.23.114.106:8551/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+龍華卡通台,http://211.23.114.106:8506/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+緯來綜合HD,http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+八大第一HD,http://211.23.114.106:9318/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+八大綜合HD,http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+三立台灣HD,http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立都會HD,http://211.23.114.106:8538/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+韓國娛樂台,http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+東森綜合HD,http://211.23.114.106:8535/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+超視HD,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+中天綜合HD,http://211.23.114.106:9325/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+中天娛樂HD,http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+東風衛視,http://211.23.114.106:9327/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+MUCH TV,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+東森戲劇HD,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+八大戲劇HD,http://211.23.114.106:9330/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+TVBS歡樂HD,http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+緯來戲劇,http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+龍華戲劇台,http://211.23.114.106:8522/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+龍華日韓劇,http://211.23.114.106:8525/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
+龍華偶像劇,http://211.23.114.106:8515/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+緯來日本HD,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1674.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1014.m3u8
+中天新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1675.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1016.m3u8
+TVBS新聞HD,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+非凡新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1013.m3u8
+非凡商業HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1676.m3u8
+Bloomberg News,http://211.23.114.106:9350/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+NHK世界HD,http://211.23.114.106:9351/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
+鏡電視新聞台,http://211.23.114.106:8545/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
+好萊塢電影HD,http://211.23.114.106:9353/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+緯來電影HD,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+龍華電影台,http://211.23.114.106:8509/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
+HBO,http://211.23.114.106:9356/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+AXN,http://211.23.114.106:9357/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+CINEMAX HD,http://211.23.114.106:9358/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+AMC 電影台,http://211.23.114.106:9359/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+寵物頻道,http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+緯來育樂HD,http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來體育HD,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+博斯運動一,http://211.23.114.106:8518/http/59.120.8.187:8068/hls/15/80/cstv15.m3u8
+momo綜合台,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+廈門衛視,http://211.23.114.106:8530/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://211.23.114.106:8542/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
+海峽衛視,http://211.23.114.106:8554/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
+浙江衛視,http://211.23.114.106:8537/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://211.23.114.106:8517/http/59.120.8.187:8078/hls/41/80/east.m3u8
+湖南衛視,http://211.23.114.106:8502/http/59.120.8.187:8078/hls/41/80/huana.m3u8
+鳯凰衛視資訊,http://211.23.114.106:8548/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視中文,http://211.23.114.106:8549/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
+211.75.236.187,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/custom19.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1027.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1072.m3u8
+廈門衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1033.m3u8
+CCTV4-中央衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1034.m3u8
+海峽衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1035.m3u8
+浙江衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1036.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1213.m3u8
+218.32.247.100,#genre#
+飯店介紹-藍山大飯店,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/custom19.m3u8
+113年全國羽球團體錦標賽,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1258.m3u8
+蝴蝶谷溫泉渡假村形象影片,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1254.m3u8
+瑞穗天合國際觀光酒店形象影片,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1207.m3u8
+台視HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1047.m3u8
+中視HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1048.m3u8
+華視HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1049.m3u8
+民視HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1050.m3u8
+公視,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1201.m3u8
+人間衛視,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1198.m3u8
+大愛電視,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1216.m3u8
+好消息頻道,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1231.m3u8
+Trace Sport Stars,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1003.m3u8
+DISCOVERY,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1002.m3u8
+旅遊生活,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1005.m3u8
+動物星球,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1004.m3u8
+亞洲旅遊,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1219.m3u8
+momo親子台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1007.m3u8
+東森幼幼HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1008.m3u8
+ANIMAX 卡通動畫頻道,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1060.m3u8
+龍華卡通台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/custom29.m3u8
+緯來綜合HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1044.m3u8
+八大第一HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1043.m3u8
+八大綜合HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1019.m3u8
+三立台灣HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1021.m3u8
+三立都會HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1020.m3u8
+韓國娛樂台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1024.m3u8
+東森綜合HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1041.m3u8
+超視HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1180.m3u8
+中天綜合HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1022.m3u8
+中天娛樂HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1023.m3u8
+東風衛視,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1195.m3u8
+MUCH TV,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1189.m3u8
+東森戲劇HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1042.m3u8
+八大戲劇HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1057.m3u8
+TVBS歡樂HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1018.m3u8
+緯來戲劇,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1186.m3u8
+龍華戲劇台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1009.m3u8
+龍華日韓劇,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1010.m3u8
+龍華偶像劇,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1235.m3u8
+緯來日本HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1026.m3u8
+Taiwan Plus,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1238.m3u8
+年代新聞,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1192.m3u8
+東森新聞HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1014.m3u8
+中天新聞HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1015.m3u8
+民視新聞,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1204.m3u8
+三立新聞HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1016.m3u8
+TVBS新聞HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1051.m3u8
+TVBS HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1251.m3u8
+非凡新聞,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1013.m3u8
+非凡商業,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1012.m3u8
+東森財經HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1017.m3u8
+寰宇新聞,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1222.m3u8
+壹新聞,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1242.m3u8
+CNBC,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1063.m3u8
+Bloomberg News,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1066.m3u8
+NHK世界HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1228.m3u8
+鏡電視新聞台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1031.m3u8
+好萊塢電影HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1025.m3u8
+緯來電影HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1183.m3u8
+龍華電影台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1245.m3u8
+HBO,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1029.m3u8
+AXN,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1054.m3u8
+CINEMAX HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1030.m3u8
+AMC 電影台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1032.m3u8
+寵物頻道,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1040.m3u8
+緯來育樂HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1045.m3u8
+緯來體育HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1011.m3u8
+博斯運動一,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1225.m3u8
+momo 綜合台,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1248.m3u8
+DAZN 1,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1069.m3u8
+DAZN 2,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1072.m3u8
+廈門衛視,http://218.32.247.100:18631/http/192.168.1.9:8088/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://218.32.247.100:18633/http/192.168.1.9:8088/hls/42/80/cctv4.m3u8
+海峽衛視HD,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1035.m3u8
+浙江衛視,http://218.32.247.100:18534/http/192.168.1.9:8088/hls/41/80/zhejiang.m3u8
+東方衛視,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1037.m3u8
+湖南衛視,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1038.m3u8
+鳯凰衛視資訊,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1210.m3u8
+鳯凰衛視中文,http://mushui.serv00.net/mqlive.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1213.m3u8
+220.134.196.147,#genre#
+台視HD,http://220.134.196.147:9110/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8
+中視HD,http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+華視HD,http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
+民視HD,http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
+公視,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+人間衛視,http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
+大愛電視,http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+好消息GOOD TV,http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
+Trace Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
+DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+動物星球,http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+亞洲旅遊,http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+MOMO親子台,http://220.134.196.147:8517/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
+東森幼幼HD,http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+龍華卡通台,http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+緯來綜合HD,http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+八大第一HD,http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+八大綜合HD,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+三立台灣HD,http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立都會HD,http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+韓國娛樂台,http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+東森綜合HD,http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+超視HD,http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+中天綜合HD,http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+中天娛樂HD,http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+東風衛視,http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+MUCH TV,http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+東森戲劇HD,http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+八大戲劇HD,http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+TVBS歡樂HD,http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+緯來戲劇,http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+龍華戲劇台,http://220.134.196.147:8555/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+龍華日韓劇,http://220.134.196.147:8531/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
+龍華偶像劇,http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+緯來日本HD,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+Taiwan Plus,http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
+年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
+東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
+中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
+三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
+非凡商業HD,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
+東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
+寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+Bloomberg News,http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+NHK HD,http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
+鏡電視新聞台,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
+好萊塢電影HD,http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+龍華電影台,http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
+HBO,http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+AXN,http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+CINEMAX HD,http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+AMC 電影台,http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+寵物頻道,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+緯來育樂HD,http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來體育HD,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+博斯運動一,http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
+momo綜合台,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+廈門衛視,http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
+海峽衛視,http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
+浙江衛視,http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
+湖南衛視,http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
+鳯凰衛視資訊,http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視中文,http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
