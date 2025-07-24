@@ -447,16 +447,6 @@
       }
     },
     {
-      "key": "csp_LiteApple",
-      "name": "🏆｜銀牌｜高清◎秒播(無廣告)",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "jar": "./jar/feimao-0611.jar;md5;d4723dd9544a35b67c09ae2c096cb24e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "剧粑",
       "name": "🏆｜銅牌｜藍光◎秒播(無廣告)",
       "type": 3,
@@ -490,17 +480,6 @@
         "deviceId": "",
         "version": "120"
       }
-    },
-    {
-      "key": "金牌app",
-      "name": "🏆｜爆炸｜藍光◎順播(無廣告+APP)",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_Muou",
-      "jar": "./jar/巧技-0711.jar;md5;54418536dc2a40da4e94437397895d01",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
     },
     {
       "key": "咖啡",
@@ -553,46 +532,6 @@
       "changeable": 1
     },
     {
-      "key": "榴莲",
-      "name": "🏆｜榴莲｜藍光◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/xiaosa-0723.jar;md5;e4a32ffd30b531911335bfbc7c4bc8e7",
-      "ext": {
-        "url": "https://qjappcms.ll4k.xyz",
-        "dataKey": "1yGA85sJ5STtE7uj",
-        "dataIv": "1yGA85sJ5STtE7uj",
-        "deviceId": "",
-        "version": "50000"
-      }
-    },
-    {
-      "key": "晴天",
-      "name": "🏆｜晴天｜藍光◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/moyuer.php;md5;2d5e6b5456c7cae497af11938df2662d",
-      "ext": {
-        "url": "https://qjappcms.sun4k.top",
-        "dataKey": "sBxqXVF5pAHbGzrH",
-        "dataIv": "sBxqXVF5pAHbGzrH",
-        "deviceId": "",
-        "version": "119"
-      }
-    },
-    {
-      "key": "py_海马",
-      "name": "🏆｜海马｜高清◎秒播(無廣告+APP)",
-      "type": 3,
-      "api": "./py/海马影视APP.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "米兔",
       "name": "🏆｜米兔｜藍光◎秒播(無廣告+APP)",
       "type": 3,
@@ -627,25 +566,7 @@
         "简介": "水印广告勿信，谨防诈骗"
       }
     },
-    {
-      "key": "py_貓眼",
-      "name": "🏆｜貓眼｜藍光◎秒播(無廣告)",
-      "type": 3,
-      "api": "./py/mioaying.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "QD4K",
-      "name": "🏆｜豬豬｜藍光◎秒播(無廣告+BX藍光線)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/mi-0619.jar;md5;9b8e295927dccaf6f96cd9008174fe11",
-      "playerType": 2,
-      "ext": "./json/cs.txt"
-    },
+ 
     {
       "key": "雄鹰",
       "name": "🏆｜雄鹰｜藍光◎秒播(無廣告+APP)",
@@ -659,21 +580,6 @@
         "dataIv": "ca94b06ca359d80e",
         "deviceId": "",
         "version": "120"
-      }
-    },
-    {
-      "key": "溜溜",
-      "name": "🏆｜溜溜｜藍光◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/xiaosa-0723.jar;md5;e4a32ffd30b531911335bfbc7c4bc8e7",
-      "ext": {
-        "url": "https://appcms.ll4k.xyz",
-        "dataKey": "NiDGaKiVnkO3QX1Q",
-        "dataIv": "NiDGaKiVnkO3QX1Q",
-        "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
-        "version": "200"
       }
     },
     {
