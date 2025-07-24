@@ -230,16 +230,6 @@
       "jar": "https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
     },
     {
-      "key": "独播库",
-      "name": "独播库",
-      "type": 3,
-      "api": "csp_WexdubokuGuard",
-      "jar": "https://raw.githubusercontent.com/cyalias/mytvs-github/387dcc33d090319ec8ef3b70f475a8a0fe0ae070/tvboxqq/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
       "key": "萌新XBPQ_独播库",
       "name": "🏆｜獨播｜藍光◎秒播(無廣告+無圖)",
       "type": 3,
@@ -429,15 +419,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/開心影院.json"
-    },
-    {
-      "key": "Wexduboku",
-      "name": "🥇｜獨播庫",
-      "type": 3,
-      "api": "csp_WexdubokuGuard",
-      "jar": "./jar/wex.txt;md5;d51df16fd164ac4c50295520b455be7d",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "py_OleVod",
