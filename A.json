@@ -3288,8 +3288,8 @@
       "pass": true
     },
     {
-      "name": "安博",
-      "url": "./live/UT.m3u",
+      "name": "4gtv-judy",
+      "url": "./live/4gtv-judy.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
