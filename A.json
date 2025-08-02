@@ -3348,14 +3348,6 @@
       "ext": "https://59.125.210.231:4433"
     },
     {
-      "name": "66元寶直播",
-      "type": 0,
-      "url": "./live/66.txt",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "pass": true
-    },
-    {
       "name": "93酒店源",
       "type": 0,
       "url": "./live/93.txt",
