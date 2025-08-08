@@ -30,18 +30,18 @@
     //    "User-Agent": "Lavf/58.12.100"
     //  }
     //},
-    {
-      "key": "黑木耳克隆",
-      "name": "黑木耳克隆",
-      "type": 4,
-      "api": "https://zhangqun66.com/225.php",
-      "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
+    //{
+    //  "key": "黑木耳克隆",
+    //  "name": "黑木耳克隆",
+    //  "type": 4,
+    //  "api": "https://zhangqun66.com/225.php",
+    //  "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
+    //  "style": {
+    //    "type": "rect",
+    //    "ratio": 1.33
+    //  },
+    //  "changeable": 1
+    //},
     {
       "key": "py_OleVod",
       "name": "欧乐影院(T4)",
@@ -3550,7 +3550,34 @@
       "url": "./live/11.txt",
       "ua": "okhttp/4.12",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+    },
+    {
+      "name": "私密線路(18+)",
+      "playerType": 1,
+      "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
+      "epg": "https://epg.pw/xmltv/epg.xml",
+      "ua": "Lavf/58.12.100",
+      "header": {
+        "X-Api-key": "eef635a7806e57ab688fa46eaddb6926a728de071bc267cb5f336d7be068d880..0..1735089945..75b109b1-81c5-4caf-aea1-776e6a81"
+      }
+    },
+    {
+      "name": "私密花園(18+)",
+      "playerType": 1,
+      "url": "./live/178.txt",
+      "epg": "https://epg.pw/xmltv/epg.xml",
+      "ua": "Lavf/58.12.100",
+      "header": {
+        "X-Api-key": "eef635a7806e57ab688fa46eaddb6926a728de071bc267cb5f336d7be068d880..0..1735089945..75b109b1-81c5-4caf-aea1-776e6a81"
+      }
+    },
+    {
+      "name": "臨時(18+)",
+      "playerType": 1,
+      "url": "./live/change-av.txt",
+      "epg": "https://epg.pw/xmltv/epg.xml"
     }
+
 
   ],
   "parses": [
