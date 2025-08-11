@@ -307,51 +307,6 @@
       "changeable": 1
     },
     {
-      "key": "蓝鹰",
-      "name": "📱｜蓝鹰｜高清◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/xiaosa-0705.jar;md5;073aa0ab9aeaed18e864d413eadba018",
-      "ext": {
-        "url": "http://172.247.192.138:18520",
-        "dataKey": "SuNlEkOLAoWJj1Oe",
-        "dataIv": "SuNlEkOLAoWJj1Oe",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "云速",
-      "name": "📱｜云速｜高清◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/xiaosa-0705.jar;md5;073aa0ab9aeaed18e864d413eadba018",
-      "ext": {
-        "url": "",
-        "site": "http://59.153.167.137:7788/1.json",
-        "dataKey": "4d83b87c4c5ea111",
-        "dataIv": "4d83b87c4c5ea111",
-        "deviceId": "",
-        "version": "105"
-      }
-    },
-    {
-      "key": "樱桃",
-      "name": "📱｜樱桃｜高清◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "jar": "./jar/xiaosa-0705.jar;md5;073aa0ab9aeaed18e864d413eadba018",
-      "ext": {
-        "url": "http://sp.dxgsp.cc",
-        "dataKey": "25f9e794323b4538",
-        "dataIv": "25f9e794323b4538",
-        "jxurl": "https://ap.dxgsp.cc"
-      }
-    },
-    {
       "key": "黑猫动漫",
       "name": "🎡｜黑猫动漫",
       "type": 3,
