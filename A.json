@@ -203,7 +203,7 @@
       "key": "聚合直播",
       "name": "聚合直播",
       "type": 3,
-      "api": "csp_Living",
+      "api": "http://tv543.cc/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4;csp_Living",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
