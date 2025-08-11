@@ -796,32 +796,6 @@
       }
     },
     {
-      "key": "csp_電影先生",
-      "name": "🥇｜影先｜無廣+5倍流暢+畫質優",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/電影先生.json"
-    },
-    {
-      "key": "csp_GimyTW",
-      "name": "🥇｜劇迷(TW)｜無廣",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://gimytw.cc/{cateId}/?country={area}&year={year}&order_by=-aired&page={catePg}",
-        "分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety",
-        "地区": "大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb||大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb#其他$other||大陸$cn#韓國$kr#臺灣$tw#歐美$west#日本$jp||大陸$cn#韓國$kr#歐美$west#日本$jp"
-      }
-    },
-    {
       "key": "csp_PTT",
       "name": "🥉｜PTT｜",
       "type": 3,
