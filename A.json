@@ -125,15 +125,6 @@
       "changeable": 0
     },
     {
-      "key": "360影视",
-      "name": "360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
@@ -199,51 +190,7 @@
       "order_num": 142,
       "ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"
     },
-    {
-      "key": "聚合直播",
-      "name": "聚合直播",
-      "type": 3,
-      "api": "http://tv543.cc/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4;csp_Living",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "新6V",
-      "name": "新6V",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "电影港",
-      "name": "电影港",
-      "type": 3,
-      "api": "csp_DyGang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Xunlei8",
-      "name": "Xunlei8",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "小红影视",
       "name": "小红影视",
