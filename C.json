@@ -794,16 +794,6 @@
         "deviceId": "",
         "version": "120"
       }
-    },
-    {
-      "key": "csp_PTT",
-      "name": "🥉｜PTT｜",
-      "type": 3,
-      "api": "csp_PTT",
-      "jar": "./jar/lem0118.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
 
   ],
