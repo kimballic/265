@@ -23,15 +23,6 @@
       "filterable": 1
     },
     {
-      "key": "天堂影视",
-      "name": "天堂影视",
-      "type": 1,
-      "api": "https://heimuer.ggff.net/api.php/tvbox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "py_OleVod",
       "name": "欧乐影院(T4)",
       "type": 4,
@@ -83,6 +74,17 @@
         "site": "https://jpyy.com,https://www.jiabaide.cn,https://cqzuoer.com,https://www.tjrongze.com,https://www.jpyy2.com,https://www.cfkj86.com"
       }
     },
+    {
+      "key": "csp_LiteApple",
+      "name": "🏆｜銀牌｜高清◎秒播(無廣告)",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./jar/feimao-0611.jar;md5;d4723dd9544a35b67c09ae2c096cb24e",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
     {
       "key": "py_文才",
       "name": "🏆｜鬼牌｜藍光◎秒播(無廣告)",
@@ -756,6 +758,8 @@
       "filterable": 1,
       "changeable": 1
     },
+
+
     {
       "key": "csp_PTT",
       "name": "🥉｜PTT｜",
