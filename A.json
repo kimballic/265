@@ -2,16 +2,7 @@
   "spider": "./jar/custom_spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    {
-      "key": "瓜子影视",
-      "name": "🏆｜瓜子｜特清◎秒播(無廣告)",
-      "type": 3,
-      "jar": "https://mpimg.cn/down.php/2fb2ccf2b4e59d8714abbbf151f8ce46.jar",
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "黑木影视",
       "name": "黑木影视",
@@ -23,6 +14,16 @@
       "header": {
         "User-Agent": "Lavf/58.12.100"
       }
+    },
+    {
+      "key": "瓜子影视",
+      "name": "🏆｜瓜子｜特清◎秒播(無廣告)",
+      "type": 3,
+      "jar": "https://mpimg.cn/down.php/2fb2ccf2b4e59d8714abbbf151f8ce46.jar",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "瓜子影视1",
