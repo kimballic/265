@@ -3,45 +3,45 @@
   "spider": "./jar/custom_spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    //{
-    //  "key": "黑木影视",
-    //  "name": "黑木影视",
-    //  "type": 1,
-    //  "api": "https://heimuer.ggff.net/api.php/tvbox",
-    //  "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
-    //  "searchable": 1,
-    //  "quickSearch": 1,
-    //  "filterable": 0,
-    //  "header": {
-    //    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-    //  }
-    //},
-    //{
-    //  "key": "黑木影视1",
-    //  "name": "黑木耳",
-    //  "type": 1,
-    //  "api": "https://heimuer.ggff.net/api.php/tvbox",
-    //  "jar": "https://gitlab.com/newrecha/tvbox/-/raw/main/jar/custom_spider.jar;md5;5e53c8f9ddd4ede5359c16bee091db93",
-    //  "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
-    //  "searchable": 1,
-    //  "quickSearch": 1,
-    //  "filterable": 0,
-    //  "header": {
-    //    "User-Agent": "Lavf/58.12.100"
-    //  }
-    //},
-    //{
-    //  "key": "黑木耳克隆",
-    //  "name": "黑木耳克隆",
-    //  "type": 4,
-    //  "api": "https://zhangqun66.com/225.php",
-    //  "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
-    //  "style": {
-    //    "type": "rect",
-    //    "ratio": 1.33
-    //  },
-    //  "changeable": 1
-    //},
+    {
+      "key": "黑木影视",
+      "name": "黑木影视",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "key": "黑木影视1",
+      "name": "黑木耳",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "jar": "https://gitlab.com/newrecha/tvbox/-/raw/main/jar/custom_spider.jar;md5;5e53c8f9ddd4ede5359c16bee091db93",
+      "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "header": {
+        "User-Agent": "Lavf/58.12.100"
+      }
+    },
+    {
+      "key": "黑木耳克隆",
+      "name": "黑木耳克隆",
+      "type": 4,
+      "api": "https://zhangqun66.com/225.php",
+      "playUrl": "json:https://heimuer.ggff.net/noads.php?url=",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
     {
       "key": "天堂影视",
       "name": "天堂影视",
