@@ -758,42 +758,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_我闲影院",
-      "name": "🏆｜我闲｜高清◎秒播(無廣告)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://tv3.woxian.de/",
-        "分类数组": "<a&&/a>",
-        "分类标题": ">&&<",
-        "分类ID": "/vodtype/&&/",
-        "分类url": "https://tv3.woxian.de/vodshow/{cateId}--------{catePg}---/",
-        "简介": "水印广告勿信，谨防诈骗"
-      }
-    },
-
-    {
-      "key": "雄鹰",
-      "name": "🏆｜雄鹰｜藍光◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/xiaosa-0723.jar;md5;e4a32ffd30b531911335bfbc7c4bc8e7",
-      "ext": {
-        "url": "http://122.228.193.2:9988",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
     }
 
   ],
