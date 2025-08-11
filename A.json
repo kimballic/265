@@ -13,6 +13,18 @@
       "filterable": 1
     },
     {
+      "key": "黑木影视",
+      "name": "黑木影视",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "header": {
+        "User-Agent": "Lavf/58.12.100"
+      }
+    },
+    {
       "key": "瓜子影视1",
       "name": "📱｜瓜子｜高清◎秒播(無廣告+APP)",
       "type": 3,
