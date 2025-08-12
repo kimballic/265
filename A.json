@@ -127,6 +127,15 @@
       }
     },
     {
+      "key": "py_aidianying",
+      "name": "🏆｜愛電影｜藍光◎秒播(無廣告)",
+      "type": 3,
+      "api": "./py/aidianying.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
       "key": "光影",
       "name": "📱｜光影｜APP",
       "type": 3,
