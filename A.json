@@ -812,6 +812,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "SMT",
+      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u",
+      "type": 3,
+      "ua": "Goiptv/8.8.8"
+
+    },
+    {
       "name": "TV543.CC",
       "url": "http://tv543.cc/4gtv1.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
