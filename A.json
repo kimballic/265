@@ -816,7 +816,6 @@
       "url": "http://tv543.cc/smart.m3u",
       "type": 3,
       "ua": "Goiptv/8.8.8"
-
     },
     {
       "name": "TV543.CC",
@@ -839,9 +838,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "142",
-      "url": "https://live.catvod.com/tv.m3u",
-      "ua": "catvod.com"
+      "name": "SMT",
+      "url": "http://tv543.cc/smart.m3u",
+      "type": 3,
+      "ua": "Goiptv/8.8.8"
+
     },
 
     {
