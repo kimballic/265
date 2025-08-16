@@ -844,6 +844,12 @@
       "ua": "Goiptv/8.8.8"
 
     },
+    {
+      "name": "SMT1",
+      "url": "http://tv543.cc/smt.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
     {
       "name": "曉峰直播",
