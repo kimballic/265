@@ -348,7 +348,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/tx.js"
+      "ext": "./drpy_js/tx.js"
     },
     {
       "key": "搜狗",
