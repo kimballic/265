@@ -349,7 +349,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "./drpy_js/tx.js"
+      "ext": "https://tv543.cc/tx.js"
     },
     {
       "key": "搜狗",
