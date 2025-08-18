@@ -46,7 +46,15 @@
       "filterable": 0,
       "changeable": 0
     },
-
+    {
+      "key": "厂长",
+      "name": "厂长",
+      "type": 3,
+      "api": "./py/py_cz.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
     {
       "key": "剧迷TV",
       "name": "影視| 剧迷TV",
