@@ -407,13 +407,6 @@
       "ext": "https://tvbox.catvod.com/xs/js/爱奇艺.js"
     },
     {
-      "key": "360影视1",
-      "name": "🐚3604K",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/js/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/js/360.js"
-    },
-    {
       "key": "搜狗",
       "name": "搜狗",
       "type": 3,
