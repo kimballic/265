@@ -96,6 +96,53 @@
       "changeable": 0
     },
     {
+      "key": "星河",
+      "name": "📱｜星河｜高清◎秒播(無廣告+APP)",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_AppSy",
+      "jar": "./jar/xiaosa-0819.jar;md5;4d0b9799b44bf036c9b86a8a00aa031d",
+      "ext": {
+        "url": "http://192.140.161.171:2563",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "aassddwwxxllsx1x",
+        "key3": "aassddwwxxllsx1x"
+      }
+    },
+    {
+      "key": "爱影视",
+      "name": "🏆｜爱盈┃測試+4K",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "api": "./py/getapp3.4.2.py",
+      "jar": "./jar/mi-0815.png;md5;66623623fe5ae34dad253ae2e0802416",
+      "ext": {
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
+        "url": "http://app.mgtv.co",
+        "datakey": "dksvndkaAjekakcE",
+        "api": 2
+      }
+    },
+    {
+      "key": "鲸鱼",
+      "name": "🏆｜鲸鱼｜測試+4K",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "api": "./py/getapp3.4.2.py",
+      "jar": "./jar/mi-0815.png;md5;66623623fe5ae34dad253ae2e0802416",
+      "ext": {
+        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "url": "http://103.217.207.75:1122",
+        "datakey": "AAdgrdghjfgswerA",
+        "api": 2
+      }
+    },
+
+    {
       "key": "py_又是一個金牌",
       "name": "🏆｜王牌｜藍光◎秒播(無廣告)",
       "type": 3,
@@ -377,34 +424,6 @@
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://tvbox.catvod.com/js/tx.js"
-    },
-    {
-      "key": "腾讯视频1",
-      "name": "🐚腾讯4K",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/xs/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/xs/js/腾讯视频.js"
-    },
-    {
-      "key": "优酷视频1",
-      "name": "🐚优酷4K",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/xs/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/xs/js/优酷视频.js"
-    },
-    {
-      "key": "芒果视频1",
-      "name": "🐚芒果4K",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/xs/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/xs/js/芒果视频.js"
-    },
-    {
-      "key": "爱奇艺1",
-      "name": "🐚奇异4K",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/xs/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/xs/js/爱奇艺.js"
     },
     {
       "key": "搜狗",
