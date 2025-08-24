@@ -934,7 +934,14 @@
       "filterable": 1,
       "changeable": 1
     },
-
+    {
+      "key": "虎牙",
+      "name": "🧲｜虎牙",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/",
+      "searchable": 1,
+      "changeable": 1
+    },
 
     {
       "key": "csp_PTT",
