@@ -1014,8 +1014,34 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "pass": true
     },
+    {
+      "name": "貓抓",
+      "url": "https://live.catvod.com/tv.m3u",
+      "ua": "catvod.com"
+    },
+    {
+      "name": "立方直播",
+      "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/sub?type=m3u&token=leifeng",
+      "timeout": 5,
+      "pass": true
+    },
+    {
+      "name": "秘密花园",
+      "type": 0,
+      "url": "http://pan.losfer.cn/down.php/9cf9c24dffed2b0131dd2f573ba74c13.jpg",
+      "playerType": 1,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "全球直播",
+      "type": 0,
+      "url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
+      "playerType": 1,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
 
-
+    },
     {
       "name": "台灣酒店",
       "url": "http://99.iptv543.com/酒店.txt",
@@ -1037,16 +1063,6 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "安博台",
-      "ua": "AptvPlayer/1.3.3",
-      "url": "http://a90120.serv00.net/anbox/p3plink.txt",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
-      "pass": true
     },
     {
       "name": "四季線上4gtv🇹🇼(本地)",
@@ -1172,26 +1188,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
       "pass": true
     },
-    {
-      "name": "173線路",
-      "playerType": 2,
-      "url": "./live/173.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "pass": true
-    },
-    {
-      "name": "F13線路",
-      "playerType": 2,
-      "url": "./live/king.txt",
-      "ua": "okhttp/3.15",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "pass": true
-    },
-
-
     {
       "name": "歐華(ouhua TV)",
       "type": 0,
