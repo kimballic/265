@@ -54,6 +54,15 @@
       "filterable": 1
     },
     {
+      "key": "天堂影视",
+      "name": "天堂影视",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "py_OleVod",
       "name": "欧乐影院(T4)",
       "type": 4,
@@ -1158,6 +1167,30 @@
       "ext": "https://60.248.127.232:4433",
       "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "MQitv",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "https://60.248.127.232:4433",
+      "jar": "https:///jar/fmMQiTV.jar",
+      "timeout": 30,
+      "playerType": 1,
+      "epg": "https:///?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "https:///?ch={name}&type=icon?token=3317e9dbfa"
+
+    },
+    {
+      "name": "MQitv2",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "http://123.12.36.121:8899/",
+      "jar": "https:///jar/fmMQiTV.jar",
+      "timeout": 30,
+      "playerType": 1,
+      "epg": "https://?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "https:///?ch={name}&type=icon?token=3317e9dbfa"
+
     },
     {
       "name": "220酒店源",
