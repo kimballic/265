@@ -17,6 +17,12 @@
       }
     },
     {
+      "key": "独播库",
+      "name": "独播库",
+      "type": 4,
+      "api": "https://tvbot.ggff.net/duboku"
+    },
+    {
       "key": "腾讯",
       "name": "腾讯",
       "type": 3,
