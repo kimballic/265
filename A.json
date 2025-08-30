@@ -39,26 +39,7 @@
       "ext": "https://tvbox.catvod.com/js/tx.js"
     },
 
-    {
-      "key": "瓜子影视",
-      "name": "🏆｜瓜子｜特清◎秒播(無廣告)",
-      "type": 3,
-      "jar": "https://mpimg.cn/down.php/2fb2ccf2b4e59d8714abbbf151f8ce46.jar",
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "瓜子影视1",
-      "name": "📱｜瓜子｜高清◎秒播(無廣告+APP)",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "./jar/xiaosa-0810.jar;md5;44855977bd721a095571affb4426eef0",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "天堂影视",
       "name": "天堂影视",
@@ -68,16 +49,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "py_OleVod",
-      "name": "欧乐影院(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
+
     {
       "key": "小苹果",
       "name": "小苹果",
@@ -127,52 +99,9 @@
       "filterable": 0,
       "changeable": 0
     },
-    {
-      "key": "星河",
-      "name": "📱｜星河｜高清◎秒播(無廣告+APP)",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_AppSy",
-      "jar": "./jar/xiaosa-0819.jar;md5;4d0b9799b44bf036c9b86a8a00aa031d",
-      "ext": {
-        "url": "http://192.140.161.171:2563",
-        "key1": "aassddwwxxllsx1x",
-        "key2": "aassddwwxxllsx1x",
-        "key3": "aassddwwxxllsx1x"
-      }
-    },
-    {
-      "key": "爱影视",
-      "name": "🏆｜爱盈┃測試+4K",
-      "quickSearch": 0,
-      "searchable": 1,
-      "type": 3,
-      "api": "./py/getapp3.4.2.py",
-      "jar": "./jar/mi-0815.png;md5;66623623fe5ae34dad253ae2e0802416",
-      "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
-        "url": "http://app.mgtv.co",
-        "datakey": "dksvndkaAjekakcE",
-        "api": 2
-      }
-    },
-    {
-      "key": "鲸鱼",
-      "name": "🏆｜鲸鱼｜測試+4K",
-      "quickSearch": 0,
-      "searchable": 1,
-      "type": 3,
-      "api": "./py/getapp3.4.2.py",
-      "jar": "./jar/mi-0815.png;md5;66623623fe5ae34dad253ae2e0802416",
-      "ext": {
-        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-        "url": "http://103.217.207.75:1122",
-        "datakey": "AAdgrdghjfgswerA",
-        "api": 2
-      }
-    },
+   
+
+
 
     {
       "key": "py_又是一個金牌",
@@ -209,22 +138,7 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
-    {
-      "key": "云云",
-      "name": "📱｜雲雲｜藍光◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/xiaosa-0805.jar;md5;a78c35fce4c992d719e1bebd4a9df40b",
-      "ext": {
-        "url": "",
-        "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
-        "dataKey": "staraugust123456",
-        "dataIv": "staraugust123456",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
+  
     {
       "key": "py_aidianying",
       "name": "🏆｜愛電影｜藍光◎秒播(無廣告)",
@@ -234,21 +148,7 @@
       "filterable": 0,
       "changeable": 0
     },
-    {
-      "key": "光影",
-      "name": "📱｜光影｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/xiaosa-0805.jar;md5;a78c35fce4c992d719e1bebd4a9df40b",
-      "ext": {
-        "url": "https://www.guangyingmi.com",
-        "dataKey": "230fnsodfsdhfon2",
-        "dataIv": "230fnsodfsdhfon2",
-        "deviceId": "",
-        "version": ""
-      }
-    },
+
     {
       "key": "电影天堂",
       "name": "天堂云",
@@ -361,26 +261,8 @@
         "地区": "中国大陆&香港&台湾&日本&韩国&泰国&美国&英国&德国&法国||中国大陆&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||香港&台湾&韩国&中国大陆&英国&美国&日本&加拿大&泰国&其它||日本&大陆&中国大陆&中国&美国&台湾&韩国&法国&英国&加拿大"
       }
     },
-    {
-      "key": "金牌影视",
-      "name": "🥇｜金牌影院｜4倍順+畫質優",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "./jar/fan.txt;md5;8851819289f80deae32319080028db3b",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "饺子",
-      "name": "🥇｜銅牌影院",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "jar": "./jar/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
-      "searchable": 1,
-      "changeable": 1
-    },
+  
+  
     {
       "key": "csp_开心影院",
       "name": "🥇｜鐵牌影院",
@@ -647,37 +529,8 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
-    {
-      "key": "云云",
-      "name": "📱｜雲雲｜藍光◎秒播(無廣告+APP)",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/xiaosa-0805.jar;md5;a78c35fce4c992d719e1bebd4a9df40b",
-      "ext": {
-        "url": "",
-        "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
-        "dataKey": "staraugust123456",
-        "dataIv": "staraugust123456",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "光影",
-      "name": "📱｜光影｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/xiaosa-0805.jar;md5;a78c35fce4c992d719e1bebd4a9df40b",
-      "ext": {
-        "url": "https://www.guangyingmi.com",
-        "dataKey": "230fnsodfsdhfon2",
-        "dataIv": "230fnsodfsdhfon2",
-        "deviceId": "",
-        "version": ""
-      }
-    },
+
+
     {
       "key": "电影天堂",
       "name": "天堂云",
@@ -790,17 +643,7 @@
         "地区": "中国大陆&香港&台湾&日本&韩国&泰国&美国&英国&德国&法国||中国大陆&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||香港&台湾&韩国&中国大陆&英国&美国&日本&加拿大&泰国&其它||日本&大陆&中国大陆&中国&美国&台湾&韩国&法国&英国&加拿大"
       }
     },
-    {
-      "key": "金牌影视",
-      "name": "🥇｜金牌影院｜4倍順+畫質優",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "./jar/fan.txt;md5;8851819289f80deae32319080028db3b",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "key": "csp_开心影院",
       "name": "🥇｜鐵牌影院",
@@ -850,18 +693,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_CZSPP",
-      "name": "🏆｜場長｜高清◎秒播(無廣告)",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "jar": "./jar/巧技-0711.jar;md5;54418536dc2a40da4e94437397895d01",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
-    },
+
     {
       "key": "py_4KAV",
       "name": "🏆｜4KAV｜藍光◎秒播(無廣告)",
@@ -957,18 +789,8 @@
         "分类url": "https://www.815k.com/list/{cateId}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
-    },
-
-    {
-      "key": "csp_PTT",
-      "name": "🥉｜PTT｜",
-      "type": 3,
-      "api": "csp_PTT",
-      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/lem0118.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
+
 
   ],
 
@@ -1128,12 +950,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "MQiTV",
-      "jar": "./jar/mqitv.jar",
-      "api": "csp_MQiTV",
-      "ext": "https://59.125.210.231:4433"
-    },
+
     {
       "name": "93酒店源",
       "type": 0,
@@ -1158,22 +975,8 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
       "pass": true
     },
-    {
-      "jar": "./jar/mqitv.jar",
-      "name": "59酒店源",
-      "api": "csp_MQiTV",
-      "ext": "https://59.125.210.231:4433",
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "jar": "./jar/mqitv.jar",
-      "name": "60酒店源",
-      "api": "csp_MQiTV",
-      "ext": "https://60.248.127.232:4433",
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+
+
     {
       "name": "220酒店源",
       "type": 0,
@@ -2594,4 +2397,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
+
 }
