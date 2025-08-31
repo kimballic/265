@@ -16,12 +16,7 @@
         "User-Agent": "Lavf/58.12.100"
       }
     },
-    {
-      "key": "独播库",
-      "name": "独播库",
-      "type": 4,
-      "api": "https://tvbot.ggff.net/duboku"
-    },
+    
     {
       "key": "腾讯",
       "name": "腾讯",
@@ -73,18 +68,13 @@
       }
     },
  
-
     {
-      "key": "py_文才",
-      "name": "🏆｜鬼牌｜藍光◎秒播(無廣告)",
+      "key": "ikanbot",
+      "name": "ikanbot",
       "type": 3,
-      "api": "./py/文才影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/ik.js"
     },
   
     {
@@ -215,37 +205,6 @@
       "changeable": 1
     },
     {
-      "key": "采集之王",
-      "name": "采集之王",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "order_num": 142,
-      "ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"
-    },
-
-    {
-      "key": "小红影视",
-      "name": "小红影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/xiaohys.json"
-    },
-    {
-      "key": "天龙",
-      "name": "天龙",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/tianlong.json"
-    },
-    {
       "key": "天天",
       "name": "天天",
       "type": 3,
@@ -285,16 +244,7 @@
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/qingtian.json"
     },
-    {
-      "key": "heihu",
-      "name": "黑狐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/heihu.json"
-    },
+    
     {
       "key": "5555kan",
       "name": "55影视",
@@ -315,16 +265,7 @@
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/guangun.json"
     },
-    {
-      "key": "qiyou",
-      "name": "奇优",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/qiyou.json"
-    },
+    
     {
       "key": "77ys",
       "name": "77影视",
