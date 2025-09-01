@@ -22,6 +22,8 @@
       "name": "腾讯",
       "type": 3,
       "playerType": "2",
+      "filterable": 1,
+      "changeable": 1,
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "./drpy_js/tx.js"
     },
@@ -68,14 +70,7 @@
       }
     },
  
-    {
-      "key": "ikanbot",
-      "name": "ikanbot",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/ik.js"
-    },
+
   
     {
       "key": "py_aidianying",
@@ -316,18 +311,7 @@
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/db.json"
     },
-    {
-      "key": "py_文才",
-      "name": "🏆｜鬼牌｜藍光◎秒播(無廣告)",
-      "type": 3,
-      "api": "./py/文才影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    },
+
 
 
     {
@@ -522,6 +506,16 @@
         "分类url": "https://www.815k.com/list/{cateId}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
+    },
+    {
+      "key": "ikanbot",
+      "name": "ikanbot",
+      "type": 3,
+      "playerType": "2",
+      "filterable": 0,
+      "changeable": 0,
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/ik.js"
     }
 
 
