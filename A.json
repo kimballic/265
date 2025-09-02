@@ -11,6 +11,38 @@
   //"jar":"https://raw.githubusercontent.com/kimballic/box/refs/heads/main/jack/spider.jar",
   "api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
     //{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+        {
+      "key": "腾讯",
+      "name": "腾讯",
+      "type": 3,
+      "playerType": "2",
+      //"filterable": 1,
+      //"changeable": 1,
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "./drpy_js/tx.js"
+    },
+    
+    {
+      "key": "小苹果",
+      "name": "小苹果",
+      "type": 4,
+      "api": "https://zhangqun66.com/pingguo.php",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    
+    {
+      "key": "嗷呜小苹果",
+      "name": "嗷呜小苹果",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_pingguo.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    }, 
     {
         "key": "zuid",
         "name": "⚡️最大",
@@ -23,6 +55,24 @@
             "国产动漫","日韩动漫","动画片",
             "港台三级","韩国伦理","日本伦理","写真热舞",
             "4K电影","邵氏电影","Netflix电影","Netflix自制剧"]
+    },
+    {
+      "key": "嗷呜金牌影院",
+      "name": "嗷呜金牌影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jinpai.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "嗷呜剧爸爸",
+      "name": "嗷呜剧爸爸",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jubaba.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
     },
     
 {"key":"api_非凡资源🎯","name":"🌸非凡","type":1,"api":"https://api.ffzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"changeable": 1,
@@ -60,16 +110,7 @@
       }
     },
     
-    {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 3,
-      "playerType": "2",
-      //"filterable": 1,
-      //"changeable": 1,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "./drpy_js/tx.js"
-    },
+
 
 
     {
@@ -83,27 +124,7 @@
     },
 
 
-    {
-      "key": "小苹果",
-      "name": "小苹果",
-      "type": 4,
-      "api": "https://zhangqun66.com/pingguo.php",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-    
-    {
-      "key": "嗷呜小苹果",
-      "name": "嗷呜小苹果",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_pingguo.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
+
     
     
     {
@@ -186,24 +207,7 @@
       "changeable": 1
     },
 
-    {
-      "key": "嗷呜金牌影院",
-      "name": "嗷呜金牌影院",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jinpai.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "嗷呜剧爸爸",
-      "name": "嗷呜剧爸爸",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jubaba.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
+
     {
       "key": "csp_看片狂人",
       "name": "🥇｜看片狂人｜超多線路+5倍順暢+極高畫質",
@@ -390,33 +394,7 @@
       "filterable": 0,
       "changeable": 1
     },
-    {
-      "key": "嗷呜小苹果",
-      "name": "嗷呜小苹果",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_pingguo.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "嗷呜金牌影院",
-      "name": "嗷呜金牌影院",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jinpai.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "嗷呜剧爸爸",
-      "name": "嗷呜剧爸爸",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jubaba.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
+
     {
       "key": "csp_看片狂人",
       "name": "🥇｜看片狂人｜超多線路+5倍順暢+極高畫質",
