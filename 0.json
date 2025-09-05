@@ -1,0 +1,9 @@
+{
+  "lives": [
+    {
+      "name": "本地测试",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/kimballic/265/refs/heads/main/live/11.txt"
+    }
+  ]
+}
