@@ -1,0 +1,8 @@
+  "lives": [
+    {
+      "name": "MYTV",
+      "url": "https://raw.githubusercontent.com/kimballic/xiaotan8/refs/heads/main/mytv.m3u",
+	"type": 3,
+      "epg": "https://mytvsuperepg.860775.xyz/?ch={name}&date={date}",
+      "logo": "https://php.946985.xyz/logo/{name}.png"
+    }]
