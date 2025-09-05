@@ -1,6 +1,15 @@
 
   "lives": [
     {
+      "name": "曉峰直播",
+      "url": "./live/fong.txt",
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "pass": true
+    },
+    {
       "name": "MYTV",
 	  "type": 3,
       "api": "https://github.com/kimballic/xiaotan8/raw/refs/heads/main/mytvsuper.py",
