@@ -2,7 +2,6 @@
   "lives": [
     {
       "name": "MYTV",
-      "url": "https://raw.githubusercontent.com/kimballic/xiaotan8/refs/heads/main/mytv.m3u",
 	  "type": 3,
       "api": "https://github.com/kimballic/xiaotan8/raw/refs/heads/main/mytvsuper.py",
       "ext": {},
