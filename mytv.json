@@ -1,4 +1,4 @@
-
+{
   "lives": [
     {
       "name": "曉峰直播",
@@ -17,3 +17,4 @@
       "epg": "https://mytvsuperepg.860775.xyz/?ch={name}&date={date}",
       "logo": "https://php.946985.xyz/logo/{name}.png"
     }]
+}
