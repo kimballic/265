@@ -26,6 +26,7 @@
       "key": "小苹果",
       "name": "🍎苹果",
       "type": 4,
+      "playerType": "1",
       "api": "https://zhangqun66.com/pingguo.php",
       "style": {
         "type": "rect",
