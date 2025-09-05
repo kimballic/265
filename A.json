@@ -15,7 +15,7 @@
       "key": "腾讯",
       "name": "腾讯",
       "type": 3,
-      "playerType": "2",
+      "playerType": "3",
       //"filterable": 1,
       //"changeable": 1,
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
@@ -49,6 +49,7 @@
         "type": 1,
         "api": "https://zuidazy.me/api.php/provide/vod/",
         "playerType":3,
+        "filterable": 0,
         "categories":[
             "国产剧","韩剧","日剧","港剧","台剧","欧美剧",
             "大陆综艺","日韩综艺","港台综艺","欧美综艺",
