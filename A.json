@@ -9,9 +9,15 @@
 
     
 {
-  "key":"豆","name":"✨️✨️【ケンのテレビ】","type":3,
+  "key":"豆","name":"✨️✨️【ケンのテレビ】",
+  //"type":3,
   //"jar":"https://raw.githubusercontent.com/kimballic/box/refs/heads/main/jack/spider.jar",
-  "api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+  //"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"changeable":0
+         "type":4,
+         "api":"https://tvbot.ggff.net/douban",
+         "quickserch":0,
+         "searchable":0
+},
     //{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
         {
       "key": "腾讯",
