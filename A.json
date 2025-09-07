@@ -150,7 +150,7 @@
   
     {
       "key": "py_aidianying",
-      "name": "愛電影)",
+      "name": "愛電影",
       "type": 3,
       "api": "./py/aidianying.py",
       "searchable": 1,
