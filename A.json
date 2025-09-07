@@ -98,12 +98,7 @@
 				"海外动漫",
                 "动作片",
                 "喜剧片"]},
-      {
-         "key":"电影天堂",
-         "name":"电影天堂",
-         "type":4,
-         "api":"https://tvbot.ggff.net/dytt"
-      },
+      
                 
     {
       "key": "黑木影视",
@@ -145,11 +140,11 @@
 
     {
       "key": "电影天堂",
-      "name": "天堂云",
+      "name": "电影天堂",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
-      "changeable": 1,
+      "filterable": 1,
       "categories": [
         "香港剧",
         "国产剧",
