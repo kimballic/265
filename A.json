@@ -8,7 +8,7 @@
 
       {
          "key":"豆瓣首页",
-         "name":"豆瓣首页",
+         "name":"✨️✨️【ケンのテレビ】",
          "type":4,
          "api":"https://tvbot.ggff.net/douban",
          "quickserch":0,
@@ -155,26 +155,7 @@
     },
 
 
-    {
-      "key": "沐辰爱瓜TV",
-      "name": "沐辰爱瓜TV",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_aigua.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
 
-    {
-      "key": "4k",
-      "name": "4k",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/4k.json"
-    },
 
     
     {
@@ -208,17 +189,7 @@
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/pianba.json"
     },
-    {
-      "key": "Movies",
-      "name": "Movies",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/Movies.json"
-    },
- 
+
     {
       "key": "沐辰爱瓜TV",
       "name": "沐辰爱瓜TV",
@@ -229,9 +200,6 @@
       "changeable": 1
     },
 
-
-
-  
     {
       "key": "csp_If101",
       "name": "️🥇｜歐樂(TV)｜",
@@ -249,25 +217,7 @@
       }
     },
 
-    {
-      "key": "py_4KAV",
-      "name": "🏆｜4KAV｜藍光◎秒播(無廣告)",
-      "type": 3,
-      "api": "./py/4KAV.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "🇹🇼BBTV",
-      "name": "🇹🇼BBTV",
-      "type": 1,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [ "国产剧", "香港剧", "欧美剧", "韩国剧", "日本剧", "台湾剧", "海外剧", "泰国剧", "电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "国产动漫", "日韩动漫", "欧美综艺", "欧美动漫", "港台动漫", "海外动漫" ]
-    },
+
     {
       "key": "茅台资源",
       "name": "🍺茅台资源",
