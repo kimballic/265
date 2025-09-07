@@ -15,16 +15,16 @@
          "searchable":0
       },
     
-{
-  "key":"豆","name":"✨️✨️【ケンのテレビ】",
-  "type":3,
+//{
+//   "key":"豆","name":"✨️✨️【ケンのテレビ】",
+//  "type":3,
   //"jar":"https://raw.githubusercontent.com/kimballic/box/refs/heads/main/jack/spider.jar",
-  "api":"csp_DoubanGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0
-},
+  //"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"changeable":0
+//},
     //{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
         {
       "key": "腾讯",
-      "name": "腾讯",
+      "name": "🐧腾讯",
       "type": 3,
       "playerType": "3",
       //"filterable": 1,
@@ -48,7 +48,7 @@
     
     {
       "key": "嗷呜小苹果",
-      "name": "嗷呜小苹果",
+      "name": "🍎小苹果",
       "type": 3,
       "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_pingguo.py",
       "searchable": 1,
@@ -69,25 +69,6 @@
             "港台三级","韩国伦理","日本伦理","写真热舞",
             "4K电影","邵氏电影","Netflix电影","Netflix自制剧"]
     },
-    {
-      "key": "嗷呜金牌影院",
-      "name": "嗷呜金牌影院",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jinpai.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "嗷呜剧爸爸",
-      "name": "嗷呜剧爸爸",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jubaba.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    
 {"key":"api_非凡资源🎯","name":"🌸非凡","type":1,"api":"https://api.ffzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":1,"playerType":3,"changeable": 1,
 			"categories": [
 				"国产剧",
@@ -109,32 +90,10 @@
 				"海外动漫",
                 "动作片",
                 "喜剧片"]},
-
-    {
-      "key": "天堂影视",
-      "name": "天堂影视",
-      "type": 1,
-      "api": "https://heimuer.ggff.net/api.php/tvbox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
- 
-
-  
-    {
-      "key": "py_aidianying",
-      "name": "🏆｜愛電影｜藍光◎秒播(無廣告)",
-      "type": 3,
-      "api": "./py/aidianying.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
-
-    {
+                
+     {
       "key": "电影天堂",
-      "name": "电影天堂",
+      "name": "⚖️电影天堂",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod?",
       "searchable": 1,
@@ -153,6 +112,53 @@
         "日韩动漫"
       ]
     },
+              
+    {
+      "key": "天堂影视",
+      "name": "天堂影视",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+                
+    {
+      "key": "嗷呜金牌影院",
+      "name": "嗷呜金牌影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jinpai.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "嗷呜剧爸爸",
+      "name": "嗷呜剧爸爸",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_jubaba.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    
+
+
+
+ 
+
+  
+    {
+      "key": "py_aidianying",
+      "name": "愛電影)",
+      "type": 3,
+      "api": "./py/aidianying.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+
+
 
 
 
@@ -202,7 +208,7 @@
 
     {
       "key": "csp_If101",
-      "name": "️🥇｜歐樂(TV)｜",
+      "name": "️歐樂(TV)",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
@@ -220,7 +226,7 @@
 
     {
       "key": "茅台资源",
-      "name": "🍺茅台资源",
+      "name": "🍺茅台",
       "type": 1,
       "api": "https://mtzy.me/api.php/provide/vod/at",
       "searchable": 1,
