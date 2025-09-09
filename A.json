@@ -551,20 +551,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
       "pass": true
     },
-    {
-      "name": "台灣景點直播",
-      "playerType": 2,
-      "url": "./live/10.txt",
-      "ua": "okhttp/4.12",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-    },
-    {
-      "name": "大陸景點直播",
-      "playerType": 2,
-      "url": "./live/11.txt",
-      "ua": "okhttp/4.12",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-    },
+
     {
       "name": "私密線路(18+)",
       "playerType": 1,
