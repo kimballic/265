@@ -234,7 +234,48 @@
       "categories": [ "国产剧", "香港剧", "欧美剧", "韩国剧", "日本剧", "台湾剧", "海外剧", "泰国剧", "电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "国产动漫", "日韩动漫", "欧美综艺", "欧美动漫", "港台动漫", "海外动漫" ]
     },
 
-
+      {
+         "key":"Cori爱壹帆",
+         "name":"Cori爱壹帆",
+         "type":3,
+         "style":{
+            "type":"rect",
+            "ratio":0.75
+         },
+         "api":"csp_GM",
+         "ext":{
+            "userScript":"https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/userScripts/ysfp.user.js",
+            "debug":false,
+            "webViewSettings":{
+               "blockNetworkImage":true,
+               "blockList":[
+                  "*.png*",
+                  "*.mp3*",
+                  "*.css*",
+                  "https://*.googletagmanager.com/*",
+                  "https://*.google-analytics.com/*"
+               ]
+            },
+            "spider":{
+               "homeContent":{
+                  "loadUrl":"https://m.yfsp.tv/"
+               },
+               "categoryContent":{
+                  "loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
+               },
+               "detailContent":{
+                  "loadUrl":"https://m.yfsp.tv/play/${id}"
+               },
+               "playerContent":{
+                  "loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
+               },
+               "searchContent":{
+                  "loadUrl":"https://m.yfsp.tv/search"
+               }
+            }
+         },
+         "jar":"https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
+      },
  
     {
       "key": "ikanbot",
