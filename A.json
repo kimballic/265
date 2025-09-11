@@ -34,7 +34,7 @@
     },
     
     {
-      "key": "小苹果",
+      "key": "苹果",
       "name": "🍎苹果",
       "type": 4,
       "playerType": "1",
@@ -45,11 +45,11 @@
     
     {
       "key": "嗷呜小苹果",
-      "name": "🍎小苹果",
+      "name": "🍎嗷呜苹果",
       "type": 3,
       "api": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/py/py_pingguo.py",
       "searchable": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 1
     }, 
     {
