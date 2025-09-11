@@ -39,10 +39,7 @@
       "type": 4,
       "playerType": "1",
       "api": "https://zhangqun66.com/pingguo.php",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
+      
       "changeable": 1
     },
     
