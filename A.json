@@ -41,7 +41,7 @@
       "api": "https://zhangqun66.com/pingguo.php",
       "style": {
         "type": "rect",
-        "ratio": 1.33
+        "ratio": 1
       },
       "changeable": 1
     },
